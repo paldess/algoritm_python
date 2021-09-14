@@ -23,7 +23,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Python.задание 6">
+  <component name="RunManager" selected="Python.задание 4">
     <configuration name="задание 2" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="algoritm_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -110,8 +110,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.задание 6" />
         <item itemvalue="Python.задание 4" />
+        <item itemvalue="Python.задание 6" />
         <item itemvalue="Python.задание 3" />
       </list>
     </recent_temporary>
